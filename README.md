@@ -8,6 +8,6 @@ Spring boot project to connect and send messages to a rabbitmq server.
 * Creation of Exchanges and Queues from java.
 * Binding Exchanges and Queues using Spring boot configuration class.
 
-###Usage:
+### Usage:
 You need to launch RabbitListenerApplication first then RabbitPublisherApplication.
 
