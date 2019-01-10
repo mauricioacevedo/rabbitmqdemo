@@ -1,6 +1,6 @@
 ## RabbitMQ server interaction from Spring boot app
 
-Spring boot project to connect and send messages to a rabbitmq server.
+Basic Spring boot project to connect and send messages to a rabbitmq server.
 
 ### Summary:
 * send basic and binary messages.
