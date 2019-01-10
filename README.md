@@ -10,3 +10,4 @@ Spring boot project to connect and send messages to a rabbitmq server.
 
 ###Usage:
 You need to launch RabbitListenerApplication first then RabbitPublisherApplication.
+Maven project.
